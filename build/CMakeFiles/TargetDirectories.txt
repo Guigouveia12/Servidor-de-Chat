@@ -1,0 +1,11 @@
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/tslog.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/chat_server.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/chat_client.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/test_tslog.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/docs.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/install.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/install/local.dir
+/mnt/c/Users/Guilherme/Servidor-de-Chat/build/CMakeFiles/install/strip.dir
